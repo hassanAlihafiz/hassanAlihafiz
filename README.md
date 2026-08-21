@@ -1,22 +1,139 @@
-<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">Top Rated Plus Full Stack Developer | React · Next.js · TypeScript · React Native · Node.js · GraphQL | Full Stack Engineer | Building Scalable Web & Mobile Apps</h3>
+# 👋 Hi, I'm Hassan Ali
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanalihafiz&label=Profile%20views&color=0e75b6&style=flat" alt="hassanalihafiz" /> </p>
+### Full-Stack Developer · React · Next.js · TypeScript · Node.js · React Native
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanalihafiz" alt="hassanalihafiz" /></a> </p>
+I build **scalable, production-ready web and mobile applications** with modern JavaScript/TypeScript technologies.
 
-- 📫 How to reach me **bali37088@gmail.com**
+I enjoy turning complex requirements into clean, maintainable products — from responsive frontends and mobile apps to robust backend APIs and GraphQL services.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-ali-14525a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-ali-14525a1a1/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/75500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75500" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+* 💻 Full-Stack Developer focused on **React, Next.js, Node.js & TypeScript**
+* 📱 Building cross-platform mobile applications with **React Native**
+* ⚡ Experienced in designing **scalable APIs and modern web architectures**
+* 🔌 Working with **REST APIs & GraphQL**
+* 🧩 Passionate about clean code, reusable components, and developer experience
+* 🌱 Continuously learning and exploring new technologies
+* 🤝 Open to collaborating on interesting products and open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
+
+### Mobile
+
+`React Native` · `Expo`
+
+### Backend
+
+`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `GraphQL`
+
+### Databases
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `Docker` · `AWS` · `Vercel` · `Firebase` · `CI/CD`
+
+---
+
+## 💼 What I Build
+
+```text
+🌐 Web Applications
+   └── React · Next.js · TypeScript
+
+📱 Mobile Applications
+   └── React Native · Expo
+
+⚙️ Backend Systems
+   └── Node.js · REST · GraphQL
+
+🗄️ Data & Infrastructure
+   └── PostgreSQL · MongoDB · Redis · Docker
+
+☁️ Deployment
+   └── AWS · Vercel · CI/CD
+```
+
+---
+
+## 📌 Featured Projects
+
+> Replace these with your strongest 3–6 repositories.
+
+### 🔹 Project One
+
+**Modern full-stack application**
+
+React · Next.js · TypeScript · Node.js · PostgreSQL
+
+A production-ready application focused on performance, scalability, and a clean user experience.
+
+[View Repository](#)
+
+### 🔹 Project Two
+
+**Cross-platform mobile application**
+
+React Native · Expo · TypeScript · Node.js
+
+A mobile-first application built for iOS and Android with a scalable backend architecture.
+
+[View Repository](#)
+
+### 🔹 Project Three
+
+**API / Backend Platform**
+
+Node.js · GraphQL · PostgreSQL · Redis
+
+A scalable backend service featuring authentication, API integrations, caching, and structured data access.
+
+[View Repository](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanalihafiz&show_icons=true&hide_border=true&rank_icon=github" alt="Hassan Ali's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanalihafiz&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
+## 📈 Most Used Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanalihafiz&show_icons=true&locale=en&layout=compact" alt="hassanalihafiz" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanalihafiz&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanalihafiz&show_icons=true&locale=en" alt="hassanalihafiz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanalihafiz&" alt="hassanalihafiz" /></p>
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software development, product ideas, engineering challenges, and interesting collaborations.**
+
+📧 **Email:** [bali37088@gmail.com](mailto:bali37088@gmail.com)
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](#)
+
+🌐 **Portfolio:** [Visit my portfolio](#)
+
+---
+
+<p align="center">
+  <i>“Build things that matter. Keep learning. Keep improving.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider starring my repositories!
+</p>
